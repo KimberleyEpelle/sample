@@ -12,7 +12,7 @@ import java.time.LocalDate;
  * @author student
  */
 public class Expense {
-
+//kjbjbhg
     private String name;
     private double price;
     private LocalDate date;
