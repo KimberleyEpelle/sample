@@ -26,6 +26,7 @@ public class First {
          y = in.nextInt();
          z = x+y;
          System.out.println("sum of entered integers = "+z);
+         System.out.println("sum "+z);
          
          int marksObtained, passingMarks;
          
