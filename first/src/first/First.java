@@ -18,7 +18,7 @@ public class First {
      
      public static void main(String args[]) 
      { 
-         System.out.println("Hello Java");
+         System.out.println("Hello Java_change");
          int x,y,z;
          System.out.println("enter the integers to calculate their sum");
          Scanner in = new Scanner(System.in);
